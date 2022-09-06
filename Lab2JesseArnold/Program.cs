@@ -8,7 +8,7 @@ namespace Program
             var firstNumber = 0;
             var secondNumber = 0;
             
-            //question 1
+            //question 1 addition
             Console.WriteLine("Enter 2 Numbers and they will be added together");
             Console.WriteLine("First Number?: ");
             firstNumber = Int32.Parse(Console.ReadLine()!);
